@@ -12,5 +12,8 @@
 |2026/2/21 上午	|北海地角上寮	|长沙	|自驾	|1000km	|回长沙|
 
 <img width="1068" height="217" alt="image" src="https://github.com/user-attachments/assets/a8bf3b5f-2d4b-4aab-a99b-0fdb93e64656" />
+		
+<img width="526" height="560" alt="image" src="https://github.com/user-attachments/assets/a89322b3-8d48-4093-82fd-a48c107f6dff" />
+
 
 
